@@ -80,6 +80,7 @@ Below is an example comparison of the insert() function for both codebases.<br><
   <a href="https://github.com/scoutu-SNHU/scoutu-SNHU.github.io/tree/main/SoftwareEngDesign/Original_CPP" class="button">Original Artifact</a>
   <a href="https://github.com/scoutu-SNHU/scoutu-SNHU.github.io/tree/main/SoftwareEngDesign/Enhanced_Python" class="button">Enhanced Artifact</a>
 </div><br>
+
 ---
 ## [*Artifact 2 — BST to AVL Tree Conversion in C++*](https://github.com/scoutu-SNHU/scoutu-SNHU.github.io/tree/main/AlgorithmsDataStruct)
 
@@ -98,6 +99,7 @@ This artifact aligns with multiple course outcomes, including creating collabora
   <a href="https://github.com/scoutu-SNHU/scoutu-SNHU.github.io/tree/main/AlgorithmsDataStruct/Original_CPP" class="button">Original Artifact</a>
   <a href="https://github.com/scoutu-SNHU/scoutu-SNHU.github.io/tree/main/AlgorithmsDataStruct/CourseCatalogAVL" class="button">Enhanced Artifact</a>
 </div><br>
+
 ---
 ## [*Artifact 3 — Animal Shelter Dashboard with Firebase*](https://github.com/scoutu-SNHU/scoutu-SNHU.github.io/tree/main/Databases)
 
