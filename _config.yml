@@ -4,3 +4,5 @@ title: Sonny Coutu
 description: Computer Science Capstone
 #show_download: true
 theme: jekyll-theme-midnight
+include:
+  - assets/css/custom.css
