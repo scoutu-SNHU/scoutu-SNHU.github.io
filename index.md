@@ -56,7 +56,7 @@ This enhancement demonstrates my ability to translate complex data structures be
 
 This artifact reflects several course outcomes: employing collaborative coding strategies through modular design and documentation; delivering professional-quality communication via clean code and structured console output; designing and evaluating algorithmic solutions through BST implementation; and demonstrating innovative use of Python’s capabilities for efficient data handling.
 <h4><span style="color: orange;">C++ Vs Python</span></h4>
-C++ menu is on the left, Python on the right. Options were added to the code, reflected in this menu, and the menu itself was improved to be more visually pleasant.  <br>
+C++ menu is on top, Python underneath. Options were added to the code, reflected in this menu, and the menu itself was improved to be more visually pleasant.  <br>
 
 <a href="assets/images/E1_C_Menu.png" target="_blank">
   <img src="assets/images/E1_C_Menu.png" alt="Original" title="Original C++ Menu" style="display: block; margin: 0 auto 20px auto; max-width: 50%;">
@@ -68,10 +68,10 @@ C++ menu is on the left, Python on the right. Options were added to the code, re
 <br><br> 
 Below is an example comparison of the insert() function for both codebases.<br><br>
 <a href="assets/images/Ex_C_Insert.png" target="_blank">
-  <img src="assets/images/Ex_C_Insert.png" alt="C insert" title="C insert" style="display: block; margin: 0 auto 20px auto; max-width: 300px; height: 500px;">
+  <img src="assets/images/Ex_C_Insert.png" alt="C insert" title="C insert" style="display: block; margin: 0 auto 20px auto; width: 400px; height: 500px;">
 </a>
 <a href="assets/images/Ex_Py_Insert.png" target="_blank">
-  <img src="assets/images/Ex_Py_Insert.png" alt="python Insert" title="python Insert" style="display: block; margin: 0 auto 20px auto; max-width: 250px; height: 450px;">
+  <img src="assets/images/Ex_Py_Insert.png" alt="python Insert" title="python Insert" style="display: block; margin: 0 auto 20px auto; width: 550px; height: 450px;">
 </a>
 <br>
 <link rel="stylesheet" href="assets/css/custom.css">
