@@ -91,7 +91,7 @@ This enhancement demonstrates advanced algorithmic thinking, expertise in C++ pr
 This artifact aligns with multiple course outcomes, including creating collaborative environments through clear structure and documentation, delivering professional-quality communications, applying algorithmic principles to optimize solutions, implementing innovative data structure techniques, and fostering a security mindset through rigorous memory management and exception handling.
 <h4><span style="color: orange;">Pseudocode for rebalance()</span></h4>
 <a href="assets/images/AVL_Pseudo.png" target="_blank">
-  <img src="assets/images/AVL_Pseudo.png" alt="pseudo for rebalance" title="Rebalance" style="display: block; margin: 0 auto 20px auto; max-width: 30%;">
+  <img src="assets/images/AVL_Pseudo.png" alt="pseudo for rebalance" title="Rebalance" style="display: block; margin: 0 auto 20px auto; width: 500px; height:500px;">
 </a>
 
 <div class="button-row">
