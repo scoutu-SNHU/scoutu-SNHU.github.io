@@ -74,12 +74,13 @@ Below is an example comparison of the insert() function for both codebases.<br><
   <img src="assets/images/Ex_Py_Insert.png" alt="python Insert" title="python Insert" style="display: block; margin: 0 auto 20px auto; max-width: 250px; height: 450px;">
 </a>
 <br>
+<link rel="stylesheet" href="assets/css/custom.css">
 <div class="button-row">
   <a href="https://github.com/scoutu-SNHU/scoutu-SNHU.github.io/blob/main/SoftwareEngDesign_narrative.pdf" class="button">Full Narrative</a>
   <a href="https://github.com/scoutu-SNHU/scoutu-SNHU.github.io/tree/main/SoftwareEngDesign/Original_CPP" class="button">Original Artifact</a>
   <a href="https://github.com/scoutu-SNHU/scoutu-SNHU.github.io/tree/main/SoftwareEngDesign/Enhanced_Python" class="button">Enhanced Artifact</a>
-</div>
-
+</div><br>
+---
 ## [*Artifact 2 — BST to AVL Tree Conversion in C++*](https://github.com/scoutu-SNHU/scoutu-SNHU.github.io/tree/main/AlgorithmsDataStruct)
 
 The second artifact is a continuation of the course catalog project, focusing on converting the existing binary search tree (BST) in C++ into a self-balancing AVL tree. This enhancement improves efficiency for insertions, deletions, and searches by maintaining optimal tree height, even in the face of large datasets. The project now includes robust balancing logic, rotation operations, height tracking, and a debug mode that visually illustrates balancing operations during runtime.
@@ -96,8 +97,8 @@ This artifact aligns with multiple course outcomes, including creating collabora
   <a href="https://github.com/scoutu-SNHU/scoutu-SNHU.github.io/blob/main/AlgoDataStructure_narrative.pdf" class="button">Full Narrative</a>
   <a href="https://github.com/scoutu-SNHU/scoutu-SNHU.github.io/tree/main/AlgorithmsDataStruct/Original_CPP" class="button">Original Artifact</a>
   <a href="https://github.com/scoutu-SNHU/scoutu-SNHU.github.io/tree/main/AlgorithmsDataStruct/CourseCatalogAVL" class="button">Enhanced Artifact</a>
-</div>
-
+</div><br>
+---
 ## [*Artifact 3 — Animal Shelter Dashboard with Firebase*](https://github.com/scoutu-SNHU/scoutu-SNHU.github.io/tree/main/Databases)
 
 The third artifact is the Animal Shelter Dashboard, originally developed in Python using Dash for CS-340: Client/Server Development. The dashboard visualizes adoption data through maps, charts, and filters. For this enhancement, I replaced the original local MongoDB backend with Firebase, implementing cloud-based storage and secure user authentication.
