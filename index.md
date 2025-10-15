@@ -68,7 +68,7 @@ C++ menu is on top, Python underneath. Options were added to the code, reflected
 <br><br> 
 Below is an example comparison of the insert() function for both codebases.<br><br>
 <a href="assets/images/Ex_C_Insert.png" target="_blank">
-  <img src="assets/images/Ex_C_Insert.png" alt="C insert" title="C insert" style="display: block; margin: 0 auto 20px auto; width: 400px; height: 500px;">
+  <img src="assets/images/Ex_C_Insert.png" alt="C insert" title="C insert" style="display: block; margin: 0 auto 20px auto; width: 600px; height: 600px;">
 </a>
 <a href="assets/images/Ex_Py_Insert.png" target="_blank">
   <img src="assets/images/Ex_Py_Insert.png" alt="python Insert" title="python Insert" style="display: block; margin: 0 auto 20px auto; width: 550px; height: 450px;">
